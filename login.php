@@ -10,7 +10,7 @@ if ($_SESSION['validate'] != true) {
 ?>
 <html>
 <head>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<div class="container">
